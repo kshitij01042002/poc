@@ -1,0 +1,4 @@
+flask
+vapi_python
+flask_cors
+queue
